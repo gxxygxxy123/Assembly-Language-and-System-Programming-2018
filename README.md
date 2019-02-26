@@ -26,4 +26,4 @@ Other homework and the quizzes are all written by only x86 assembly language.
 	mouse : select and exchange the images for two selected grid cells
 	ESC : show student information and press Enter to quit the program
 
-![demo](https://imgur.com/kqn7kvT.gif)
+![demo](https://imgur.com/fxRkkQv.gif)
